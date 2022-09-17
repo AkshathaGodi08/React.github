@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(12, 227, 227);
+}
+.container{
+    background-color: rgb(12, 227, 227);
+}
+.footerstyling{
+    margin-top: 450px;
+    background-color: black;
+    border-radius: 20px;
+}
+.footerstyling>h3{
+    color: black;
+    text-align: center;
+}
